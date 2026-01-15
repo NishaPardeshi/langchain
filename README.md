@@ -1,5 +1,8 @@
 # LangChain Experiments
 
+<img width="1536" height="1024" alt="langchain_experiments" src="https://github.com/user-attachments/assets/c9e19f86-1e3d-43a2-8d4f-8ad5f6852089" />
+
+
 This repository contains experiments and prototypes exploring various functionalities of **LangChain**, including building LLM-powered pipelines, retrieval-augmented generation (RAG) workflows, and integrations with vector stores and external tools.
 
 The goal of this project is to gain hands-on experience with LangChain components and understand best practices for designing modular, scalable LLM applications.
